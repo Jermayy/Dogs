@@ -1,7 +1,19 @@
 head {
-    
+background-color: black;
 }
 
 h1{
     text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+#div_dog{
+   background-color: black; 
+   float: left;
+}
+
+.clearfix{
+    clear: both;
 }
